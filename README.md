@@ -45,7 +45,7 @@
 * >**在我的图书界面里可以看到我发布的图书、我评价的图书、我借阅的图书以及我归还的图书的具体信息**
 ![我的图书.png](https://github.com/mikewang68/EthBookLibraryDapp-main/blob/main/docs/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E6%88%91%E7%9A%84%E5%9B%BE%E4%B9%A6.jpg)
 
-* >**在此模块的最上方，是可以按照关键字和类型搜索想要查询的图书。若在查询图书时输入错误的关键字则会进行提示**
+* >**在此模块的最上方，是可以按照关键字和类型搜索想要查询的图书。若在查询图书时输入错误的关键字则会进行提示**<br />
 ![查询图书失败提示图.png](https://github.com/mikewang68/EthBookLibraryDapp-main/blob/main/docs/%E7%B3%BB%E7%BB%9F%E6%88%AA%E5%9B%BE/%E6%9F%A5%E8%AF%A2%E5%9B%BE%E4%B9%A6%E5%A4%B1%E8%B4%A5%E6%8F%90%E7%A4%BA%E5%9B%BE.png)
 
 * >**在“我的图书”下面的借阅的图书里面是可以归还图书的，已经归还了的图书是不用归还的**<br />
