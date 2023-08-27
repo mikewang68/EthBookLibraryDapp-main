@@ -119,7 +119,7 @@ http://localhost:5001/webui
 
 <a name="b9063e78"></a>
 ## 2.3 安装[ganache](https://truffleframework.com/ganache)测试框架
-* 在官网（https://trufflesuite.com/ganache/）下载适合主机版本的ganache
+* 在官网下载适合主机版本的[ganache](https://truffleframework.com/ganache)
 <a name="1dfd2bcd"></a>
 ## 2.4 安装以太坊浏览器插件[metamask](https://chrome.google.com/webstore/category/extensions)
 
@@ -166,11 +166,11 @@ truffle migrate
 npm install
 * 运行
 
-npm run dev<br />会自动打开浏览器通过localhost:3000访问<br/>（若未自动的打开，可以在浏览器中输入该网址，刷新后即可）
+npm run dev<br />会自动打开浏览器通过localhost:3000访问<br/>注：若未自动的打开，可以在浏览器中输入该网址，刷新后即可
 
 <a name="8382c147"></a>
 ## 5 参考资料
-* [图书馆系统]([https://github.com/littleredhat1997/Egame](https://github.com/wongnoubo/ethereum_library_DApp/) **十分感谢！**
+* [图书馆系统][https://github.com/littleredhat1997/Egame](https://github.com/wongnoubo/ethereum_library_DApp/) **十分感谢！**
 ---
 有问题可以提issues，欢迎star、~
 ---
