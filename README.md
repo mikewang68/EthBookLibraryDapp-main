@@ -84,7 +84,7 @@
 ## 2.1 安装IPFS
 * 下载ipfs压缩包
 
-$ wget https://dist.ipfs.io/kubo/v0.4.13/kubo_v0.4.13_linux-amd64.tar.gz
+$ wget https://dist.ipfs.io/go-ipfs/v0.4.13/go-ipfs_v0.4.13_linux-amd64.tar.gz
 * 解压
 
 $ tar -xvzf kubo_v0.4.13_linux-amd64.tar.gz
