@@ -84,10 +84,10 @@
 ## 2.1 安装IPFS
 * 下载ipfs压缩包
 
-$ wget https://dist.ipfs.tech/kubo/v0.18.1/kubo_v0.18.1_linux-amd64.tar.gz
+$ wget https://dist.ipfs.tech/kubo/v0.4.13/kubo_v0.4.13_linux-amd64.tar.gz
 * 解压
 
-$ tar -xvzf kubo_v0.18.1_linux-amd64.tar.gz
+$ tar -xvzf kubo_v0.4.13_linux-amd64.tar.gz
 * 移动文件
 
 $ cd go-ipfs<br />$ sudo mv ipfs /usr/local/bin/ipfs
