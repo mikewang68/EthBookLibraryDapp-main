@@ -82,18 +82,23 @@
 
 <a name="8e98bd52"></a>
 ## 2.1 安装IPFS
-* 下载ipfs压缩包
+* 下载kubo压缩包
 
-$ wget https://dist.ipfs.io/go-ipfs/v0.4.13/go-ipfs_v0.4.13_linux-amd64.tar.gz
+$ wget https://dist.ipfs.tech/kubo/v0.18.1/kubo_v0.18.1_linux-amd64.tar.gz
 * 解压
 
-$ tar -xvzf kubo_v0.4.13_linux-amd64.tar.gz
+$ tar -xvzf kubo_v0.18.1_linux-amd64.tar.gz
 * 移动文件
 
-$ cd go-ipfs<br />$ sudo mv ipfs /usr/local/bin/ipfs
+$ cd kubo<br />$ sudo bash install.sh
 * 在本地计算机建立一个IPFS节点
 
 $ ipfs init
+
+* 测试的命令
+
+$ ipfs cat /ipfs/'HASH'/readme
+
 * 跨域资源共享CORS配置
 
 $ ipfs config --json API.HTTPHeaders.Access-Control-Allow-Methods '["PUT", "GET", "POST", "OPTIONS"]'<br />$ ipfs config --json API.HTTPHeaders.Access-Control-Allow-Origin '["*"]'<br />
